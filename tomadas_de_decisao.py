@@ -17,7 +17,7 @@ for i in range(1, 11):
     
 #2 faça a tabuado do 5
 tabuado_do_cinco = 5
-i+1 faz com que i seja somado com mais 1  apos a próxima rodada
+#i+1 faz com que i seja somado com mais 1  apos a próxima rodada
 i = i+1
 
 for i in range(11):
